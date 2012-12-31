@@ -1,0 +1,6 @@
+eclipse
+exit
+test:compile
+~test-only org.functionalkoans.forscala.AboutAsserts
+~test-only org.functionalkoans.forscala.AboutValAndVar
+exit

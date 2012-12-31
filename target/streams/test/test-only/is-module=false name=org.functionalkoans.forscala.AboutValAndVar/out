@@ -1,0 +1,3 @@
+[info] AboutValAndVar:
+[info] - vars may be reassigned
+[info] - vals may not be reassigned
