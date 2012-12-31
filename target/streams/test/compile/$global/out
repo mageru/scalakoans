@@ -2,17 +2,17 @@
 [debug] Initial source changes: 
 [debug] 	removed:Set()
 [debug] 	added: Set()
-[debug] 	modified: Set(C:\Users\JMiller\workspace-scala\scalakoans\src\test\scala\org\functionalkoans\forscala\AboutValAndVar.scala)
-[debug] Removed products: Set(C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutValAndVar$$anonfun$2.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutValAndVar.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutValAndVar$$anonfun$1.class)
+[debug] 	modified: Set(C:\Users\JMiller\workspace-scala\scalakoans\src\test\scala\org\functionalkoans\forscala\AboutClasses.scala)
+[debug] Removed products: Set()
 [debug] Modified external sources: Set()
 [debug] Modified binary dependencies: Set()
-[debug] Initial directly invalidated sources: Set(C:\Users\JMiller\workspace-scala\scalakoans\src\test\scala\org\functionalkoans\forscala\AboutValAndVar.scala)
+[debug] Initial directly invalidated sources: Set(C:\Users\JMiller\workspace-scala\scalakoans\src\test\scala\org\functionalkoans\forscala\AboutClasses.scala)
 [debug] 
 [debug] Sources indirectly invalidated by:
-[debug] 	product: Set(C:\Users\JMiller\workspace-scala\scalakoans\src\test\scala\org\functionalkoans\forscala\AboutValAndVar.scala)
+[debug] 	product: Set()
 [debug] 	binary dep: Set()
 [debug] 	external source: Set()
-[debug] Initially invalidated: Set(C:\Users\JMiller\workspace-scala\scalakoans\src\test\scala\org\functionalkoans\forscala\AboutValAndVar.scala)
+[debug] Initially invalidated: Set(C:\Users\JMiller\workspace-scala\scalakoans\src\test\scala\org\functionalkoans\forscala\AboutClasses.scala)
 [info] Compiling 1 Scala source to C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes...
 [debug] Interfacing (CompilerInterface) with Scala compiler version 2.9.2
 [debug] Calling Scala compiler with arguments  (CompilerInterface):
@@ -24,6 +24,6 @@
 [debug] 	C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\sunrsasign.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\classes;C:\Users\JMiller\.sbt\boot\scala-2.9.2\lib\scala-library.jar
 [debug] 	-classpath
 [debug] 	C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes;C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\classes;C:\Users\JMiller\workspace-scala\scalakoans\lib\junit-4.8.jar;C:\Users\JMiller\workspace-scala\scalakoans\lib\scalatest_2.9.2-1.8.jar;C:\Users\JMiller\workspace-scala\scalakoans\lib_managed\jars\org.scalatest\scalatest_2.9.2\scalatest_2.9.2-1.8.jar
-[debug] 	C:\Users\JMiller\workspace-scala\scalakoans\src\test\scala\org\functionalkoans\forscala\AboutValAndVar.scala
+[debug] 	C:\Users\JMiller\workspace-scala\scalakoans\src\test\scala\org\functionalkoans\forscala\AboutClasses.scala
 [debug] 	Invalidated direct: Set()
 [debug] Incrementally invalidated: Set()

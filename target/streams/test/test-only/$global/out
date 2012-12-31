@@ -1,4 +1,4 @@
-[debug] Running Test org.functionalkoans.forscala.AboutValAndVar : subclass(false, org.scalatest.Suite) with arguments 
-[info] Passed: : Total 2, Failed 0, Errors 0, Passed 2, Skipped 0
+[debug] Running Test org.functionalkoans.forscala.AboutClasses : subclass(false, org.scalatest.Suite) with arguments 
+[info] Passed: : Total 3, Failed 0, Errors 0, Passed 3, Skipped 0
 [debug] Passed tests:
-[debug] 	org.functionalkoans.forscala.AboutValAndVar
+[debug] 	org.functionalkoans.forscala.AboutClasses
