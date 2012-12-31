@@ -2,14 +2,28 @@
 [debug] Initial source changes: 
 [debug] 	removed:Set()
 [debug] 	added: Set()
-[debug] 	modified: Set()
-[debug] Removed products: Set()
+[debug] 	modified: Set(C:\Users\JMiller\workspace-scala\scalakoans\src\test\scala\org\functionalkoans\forscala\AboutLists.scala)
+[debug] Removed products: Set(C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$12$$anonfun$apply$mcV$sp$8.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$10$$anonfun$apply$mcV$sp$5.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$1.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$3.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$7$$anonfun$8.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$6$$anonfun$apply$mcV$sp$1.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$9.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$10.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$6.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$11$$anonfun$apply$mcV$sp$7.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$14.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$12$$anonfun$apply$mcV$sp$9.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$13$$anonfun$apply$mcV$sp$10.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$13.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$11.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$13$$anonfun$apply$mcV$sp$13.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$11$$anonfun$apply$mcV$sp$6.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$7.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$12.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$9$$anonfun$apply$mcV$sp$2.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$13$$anonfun$apply$mcV$sp$11.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$4.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$13$$anonfun$apply$mcV$sp$12.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$2.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$10$$anonfun$apply$mcV$sp$4.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$9$$anonfun$apply$mcV$sp$3.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$5.class, C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes\org\functionalkoans\forscala\AboutLists$$anonfun$15.class)
 [debug] Modified external sources: Set()
 [debug] Modified binary dependencies: Set()
-[debug] Initial directly invalidated sources: Set()
+[debug] Initial directly invalidated sources: Set(C:\Users\JMiller\workspace-scala\scalakoans\src\test\scala\org\functionalkoans\forscala\AboutLists.scala)
 [debug] 
 [debug] Sources indirectly invalidated by:
-[debug] 	product: Set()
+[debug] 	product: Set(C:\Users\JMiller\workspace-scala\scalakoans\src\test\scala\org\functionalkoans\forscala\AboutLists.scala)
 [debug] 	binary dep: Set()
 [debug] 	external source: Set()
-[debug] Initially invalidated: Set()
+[debug] Initially invalidated: Set(C:\Users\JMiller\workspace-scala\scalakoans\src\test\scala\org\functionalkoans\forscala\AboutLists.scala)
+[info] Compiling 1 Scala source to C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes...
+[debug] Interfacing (CompilerInterface) with Scala compiler version 2.9.2
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-deprecation
+[debug] 	-unchecked
+[debug] 	-d
+[debug] 	C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes
+[debug] 	-bootclasspath
+[debug] 	C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\sunrsasign.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\classes;C:\Users\JMiller\.sbt\boot\scala-2.9.2\lib\scala-library.jar
+[debug] 	-classpath
+[debug] 	C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\test-classes;C:\Users\JMiller\workspace-scala\scalakoans\target\scala-2.9.2\classes;C:\Users\JMiller\workspace-scala\scalakoans\lib\junit-4.8.jar;C:\Users\JMiller\workspace-scala\scalakoans\lib\scalatest_2.9.2-1.8.jar;C:\Users\JMiller\workspace-scala\scalakoans\lib_managed\jars\org.scalatest\scalatest_2.9.2\scalatest_2.9.2-1.8.jar
+[debug] 	C:\Users\JMiller\workspace-scala\scalakoans\src\test\scala\org\functionalkoans\forscala\AboutLists.scala
+[debug] 	Invalidated direct: Set()
+[debug] Incrementally invalidated: Set()

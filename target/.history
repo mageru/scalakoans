@@ -7,3 +7,4 @@ exit
 ~test-only org.functionalkoans.forscala.AboutClasses
 ~test-only org.functionalkoans.forscala.AboutRange
 ~test-only org.functionalkoans.forscala.AboutLiteralBooleans
+~test-only org.functionalkoans.forscala.Koans
