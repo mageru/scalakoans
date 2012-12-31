@@ -1,2 +1,2 @@
-[debug] Subclass fingerprints: Stream((org.scalatest.Suite,false,org.scalatest.tools.ScalaTestFramework$$anon$1@76828613), ?)
-[debug] Annotation fingerprints: Stream((org.scalatest.WrapWith,false,org.scalatest.tools.ScalaTestFramework$$anon$2@5f7ca7b3), ?)
+[debug] Subclass fingerprints: Stream((org.scalatest.Suite,false,org.scalatest.tools.ScalaTestFramework$$anon$1@a8ab1d0), ?)
+[debug] Annotation fingerprints: Stream((org.scalatest.WrapWith,false,org.scalatest.tools.ScalaTestFramework$$anon$2@179fd418), ?)

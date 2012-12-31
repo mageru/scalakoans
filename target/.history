@@ -5,3 +5,4 @@ test:compile
 ~test-only org.functionalkoans.forscala.AboutValAndVar
 exit
 ~test-only org.functionalkoans.forscala.AboutClasses
+~test-only org.functionalkoans.forscala.AboutRange
