@@ -1,4 +1,4 @@
 [debug] Running Test org.functionalkoans.forscala.Koans : subclass(false, org.scalatest.Suite) with arguments 
-[info] Passed: : Total 31, Failed 0, Errors 0, Passed 31, Skipped 0
+[info] Passed: : Total 60, Failed 0, Errors 0, Passed 60, Skipped 0
 [debug] Passed tests:
 [debug] 	org.functionalkoans.forscala.Koans
