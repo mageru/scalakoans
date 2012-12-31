@@ -6,3 +6,4 @@ test:compile
 exit
 ~test-only org.functionalkoans.forscala.AboutClasses
 ~test-only org.functionalkoans.forscala.AboutRange
+~test-only org.functionalkoans.forscala.AboutLiteralBooleans
