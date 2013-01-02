@@ -8,3 +8,18 @@ exit
 ~test-only org.functionalkoans.forscala.AboutRange
 ~test-only org.functionalkoans.forscala.AboutLiteralBooleans
 ~test-only org.functionalkoans.forscala.Koans
+A workaround has been put in place to automatially reset state of this workflow when it aborts with the MiM header/tailer message.
+ 
+The workflow is in TDC and it is named:
+ UBMaint.Wf_ClearSCMTxnStatus
+ 
+It executes the folloing SQL:
+ update mzowner.txn_status t set status=1
+ where status=2
+ and (substr(t.name, 0, (instr(t.name,'_'))-1)) = (select c.config_key
+ from mzowner.configuration_data c
+ where c.folder_name='D3G_SCM'
+ and c.config_name='Wf_Processing_SCM')
+ 
+The wfg that controls execution of the fix is UBMaint.Wfg_ClearSCMTxnStatus. It is activated by an abort of the D3G_SCM.Wfg_Processing wf group with a message containing header/trailer. (Using an event in the schedule)
+~test-only org.functionalkoans.forscala.Koans
