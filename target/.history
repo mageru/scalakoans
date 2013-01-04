@@ -23,3 +23,12 @@ It executes the folloing SQL:
  
 The wfg that controls execution of the fix is UBMaint.Wfg_ClearSCMTxnStatus. It is activated by an abort of the D3G_SCM.Wfg_Processing wf group with a message containing header/trailer. (Using an event in the schedule)
 ~test-only org.functionalkoans.forscala.Koans
+1+1
+exit
+~test-only org.functionalkoans.forscala.Koans
+intellij
+idea
+sbt-idea
+exit
+gen-idea
+exit

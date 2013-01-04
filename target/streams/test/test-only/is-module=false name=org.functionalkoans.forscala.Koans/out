@@ -76,16 +76,35 @@
 [info] - Mutable maps can have Lists of elements removed
 [info] - Mutable maps can be cleared
 [info] AboutMutableSets:
+[info] - Mutable sets can be created easily
+[info] - Mutable sets can have elements removed
+[info] - Mutable sets can have tuples of elements removed
+[info] - Mutable sets can have tuples of elements added
+[info] - Mutable sets can have Lists of elements added
+[info] - Mutable sets can have Lists of elements removed
+[info] - Mutable sets can be cleared
+[info] AboutFormatting:
+[info] - Character Literals can be an a single character
+[info] - Character Literals can be an escape sequence, including octal or hexidecimal
+[info] AboutPatternMatching:
+[info] - Pattern matching returns something
+[info] - Pattern matching can return complex somethings
+[info] - Pattern matching can match complex expressions
+[info] - Pattern matching can wildcard parts of expressions
+[info] - Pattern matching can substitute parts of expressions
+[info] - Pattern matching can done on regular expression groups
+[info] - A backquote can be used to refer to a stable variable in scope to create a case statement.
+[info]           | This prevents what is called \'Variable Shadowing\'
 [info]   + ***************************************** 
 [info]   + ***************************************** 
 [info]   +  
 [info]   +  
 [info]   +  
-[info]   + Please meditate on koan "Mutable sets can be created easily" of suite "AboutMutableSets" 
+[info]   + Please meditate on koan "A backquote can be used to refer to a method parameter as a stable variable to create a case statement." of suite "AboutPatternMatching" 
 [info]   +  
 [info]   +  
 [info]   +  
 [info]   + ***************************************** 
 [info]   + ***************************************** 
-[info] Info Provided - AboutMutableSets
+[info] Info Provided - AboutPatternMatching
 [info] Info Provided - Koans

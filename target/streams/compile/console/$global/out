@@ -1,0 +1,11 @@
+[debug] Starting sandboxed run...
+[debug] Waiting for threads to exit or System.exit to be called.
+[debug] Waiting for thread run-main to exit
+[info] Starting scala interpreter...
+[debug]   Boot classpath: C:\Program Files\Java\jdk1.6.0_33\jre\lib\resources.jar;C:\Program Files\Java\jdk1.6.0_33\jre\lib\rt.jar;C:\Program Files\Java\jdk1.6.0_33\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.6.0_33\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.6.0_33\jre\lib\jce.jar;C:\Program Files\Java\jdk1.6.0_33\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.6.0_33\jre\lib\modules\jdk.boot.jar;C:\Program Files\Java\jdk1.6.0_33\jre\classes;C:\Users\milleju\.sbt\boot\scala-2.9.2\lib\scala-library.jar
+[debug]   Classpath: C:\Users\milleju\scalakoans\target\scala-2.9.2\classes;C:\Users\milleju\scalakoans\lib\junit-4.8.jar;C:\Users\milleju\scalakoans\lib\scalatest_2.9.2-1.8.jar;C:\Users\milleju\.sbt\boot\scala-2.9.2\lib\scala-compiler.jar;C:\Users\milleju\.sbt\boot\scala-2.9.2\lib\jansi.jar;C:\Users\milleju\.sbt\boot\scala-2.9.2\lib\jline.jar
+[info] 
+[debug] 	Thread run-main exited.
+[debug] Interrupting remaining threads (should be all daemons).
+[debug] Sandboxed run complete..
+[debug] Exited with code 0
