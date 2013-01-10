@@ -115,8 +115,8 @@ class AboutPatternMatching extends KoanSuite {
       case `i` => true
       case _ => false
     }
-    patternEquals(3, 3) should be(__)
-    patternEquals(7, 9) should be(__)
-    patternEquals(9, 9) should be(__)
+    patternEquals(3, 3) should be(true)
+    patternEquals(7, 9) should be(false)
+    patternEquals(9, 9) should be(true)
   }
 }
